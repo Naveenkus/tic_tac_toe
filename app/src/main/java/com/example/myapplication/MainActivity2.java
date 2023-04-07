@@ -26,6 +26,7 @@ public class MainActivity2 extends AppCompatActivity {
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
+        // Well Done Bro
         ImageButton b00 = findViewById(R.id.button00);
         ImageButton b01 = findViewById(R.id.button01);
         ImageButton b02= findViewById(R.id.button02);
