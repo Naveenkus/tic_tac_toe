@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="x">X</string>
+    <string name="o">O</string>
+    <string name="o1">O</string>
+    <string name="o2">O</string>
+    <string name="x1">X</string>
+    <string name="x2">X</string>
+    <string name="tic">Tic</string>
+    <string name="toe">Toe</string>
+    <string name="tac">Tac</string>
+    <string name="todo">TODO</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="wins">Wins</string>
+    <string name="get_started">Get Started</string>
+    <string name="Tic_tac_toe" />
+    <string name="tic_tac_toe">Tic tac toe</string>
+</resources>
